@@ -15,6 +15,7 @@
 ## Примеры и что уже есть
 
 Первые результаты можно увидеть в этом докладе:
+
 [![Запись доклада](https://img.youtube.com/vi/NnQCzhZBN0Y/0.jpg)](https://www.youtube.com/watch?v=NnQCzhZBN0Y)
 
 [Презентация отдельно](https://speakerdeck.com/inem/solving-architectural-problems-with-oop-in-pictures)
